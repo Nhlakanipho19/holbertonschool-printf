@@ -42,7 +42,7 @@ _printf("Integer: %d", integer); (or use "%i" for print integer, depends of the 
 printf(1), _printf(2), printf(3), sprintf(), snprintf(), vsprintf(), vsnprintf().
 
 .SH BUGS
-If there is a bug, report to 967@holbertonschool.com or 970@holbertonschool.com
+If there is a bug, report to 6449@holbertonschool.com or 6458@holbertonschool.com
 
 .SH AUTHOR
-Nhlakanipho Msutwana - Students at Holberton School South Africa.
+Nhlakanipho Msutwana and Tisetso Mabena - Students at Holberton School South Africa.
