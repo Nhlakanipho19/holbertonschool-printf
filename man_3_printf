@@ -5,7 +5,7 @@
 ._Printf
 \- This function produces output according to a format.
 .SH SYNOPSIS
-#include "holberton.h"
+#include "main.h"
 
 int _printf(const char *format, ...)
 
